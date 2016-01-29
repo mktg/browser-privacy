@@ -7,6 +7,7 @@ This list will mostly focus on browsers, browser configs and browser fingerprint
 - [SRWare Iron (Chrome)](http://www.srware.net/en/software_srware_iron.php) Chrome with the eye of sauron removed.
 - [Pale Moon (Firefox)](https://www.palemoon.org/) Custom-built and optimized Mozilla Firefox browsers for Windows Operating Systems.
 - [Midori](http://www.midori-browser.org/) Yay more open source webkit.
+
 ----------
 
 ## Chrome extensions ##
@@ -17,7 +18,6 @@ This list will mostly focus on browsers, browser configs and browser fingerprint
 
 ## Chrome Config ##
 	chrome://flags/#disable-webrtc  (doesn't work, do your spamming in another browser)
-
 
 ----------
 
@@ -59,7 +59,7 @@ Firefox is a bit of a dog, but it's certainly less invasive than modern chrome b
 
 
 ## Web tracking, Browser fingerprinting & Analytics libraries ##
--[Evercookie](https://github.com/samyk/evercookie) - Produces extremely persistent, respawning cookies in a browser.
+- [Evercookie](https://github.com/samyk/evercookie) - Produces extremely persistent, respawning cookies in a browser.
 - [Google Analytics](https://analytics.google.com/) It's kinda scary how much data they collect daily.
 - [fingerprintjs2](https://github.com/Valve/fingerprintjs2) - Modern & flexible browser fingerprinting library, a successor to the original fingerprintjs.
 - [UserAgentInfo](https://github.com/quentin389/UserAgentInfo) - PHP class for parsing user agent strings (HTTP_USER_AGENT). Includes mobile checks, bots and banned bots checks, browser types/versions and more.
