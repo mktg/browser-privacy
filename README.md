@@ -13,8 +13,8 @@ This list will mostly focus on browsers, browser configs and browser fingerprint
 ## Chrome extensions ##
 - [CanvasFingerprintBlock](https://chrome.google.com/webstore/detail/canvasfingerprintblock/ipmjngkmngdcdpmgmiebdmfbkcecdndc) - Does what it says on the tin.
 - [Scriptsafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf) - For various values of safe.
-- [Ublock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related) Less terrible than adblock plus. WebRTC blocking doesn't work because 
-- [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) Content blocking overkill
+- [Ublock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related) Less terrible than adblock plus. WebRTC blocking doesn't.
+- [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) Content blocking overkill.
 
 ## Chrome Config ##
 	chrome://flags/#disable-webrtc  (doesn't work, do your spamming in another browser)
