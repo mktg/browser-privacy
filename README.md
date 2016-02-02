@@ -1,6 +1,5 @@
-Links to web browser privacy and hardening resources, as well as browser fingerprinting and identification developer tools. Private and state organizations monitor and record your online activities, so do google, bing, yanded, yahoo, baidu, facebook, and a million others. These are useful resources I've come across while making lots of, err, accounts.
-  
-This list will mostly focus on browsers, browser configs and browser fingerprinting. [Tor](https://www.torproject.org/projects/torbrowser.html.en) [resources](https://www.torproject.org/projects/projects.html.en) [intentionally](http://the-hidden-wiki.com/) [omitted](http://the-hidden-wiki.com/).
+Links to web browser privacy and hardening resources, as well as browser fingerprinting and identification developer tools.
+
 
 ## Alternative Browsers ##
 
