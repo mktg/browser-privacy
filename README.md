@@ -1,8 +1,14 @@
 Links to web browser privacy and hardening resources, as well as browser fingerprinting and identification developer tools.
 
+## Interesting threads ##
+- [Анонимность в каждый ZennoPoster. От Useragent'a до шрифтов. Часть 1.](http://zennolab.com/discussion/threads/anonimnost-v-kazhdyj-zennoposter-ot-useragenta-do-shriftov-chast-1.37703/)
+- [Анонимность в каждый ZennoPoster. От Useragent'a до шрифтов. Часть 2.](http://zennolab.com/discussion/threads/anonimnost-v-kazhdyj-zennoposter-ot-useragenta-do-shriftov-chast-2.44575/)
+
+
 
 ## Alternative Browsers ##
 
+- [Multi Login App](https://multiloginapp.com/) Multi profile anonymising browser. Awesome!
 - [SRWare Iron (Chrome)](http://www.srware.net/en/software_srware_iron.php) Chrome with the eye of sauron removed.
 - [Pale Moon (Firefox)](https://www.palemoon.org/) Custom-built and optimized Mozilla Firefox browsers for Windows Operating Systems.
 - [Midori](http://www.midori-browser.org/) Yay more open source webkit.
@@ -22,12 +28,14 @@ Links to web browser privacy and hardening resources, as well as browser fingerp
 
 ## Firefox Config / Profile software ##
 Firefox is a bit of a dog, but it's certainly less invasive than modern chrome builds.
+- [Ghacks Hardened FF user.js](https://github.com/ghacksuserjs/ghacks-user.js) Well maintained privacy-focused user.js
 - [ConfigFox](http://configfox.sourceforge.net/) - A utility to manage Firefox advanced, hidden settings and tweaks, mostly concerning security and privacy.
 - [Firefox Profilemaker](https://www.ffprofile.com/) [Github](https://github.com/allo-/firefox-profilemaker) - Makes FF profiles with secure/private defaults. 
 - [Firefox Environment Backup Extension](http://softwarebychuck.com/febe/febe.html#latest)  - FEBE allows you to quickly and easily backup your Firefox extensions. Rebuilds your extensions individually into installable .xpi files. 
 
 
 ## Firefox Config / Tweaks ##
+
 - [Firefox bullshit removal via about:config](https://gist.github.com/haasn/69e19fc2fe0e25f3cff5) - Lots of config tweaks with explanations
 - [Firefox Hardening](https://github.com/pyllyukko/user.js/) - This user.js is a bit over the top to be useable day to day, but it's a good start.
 
