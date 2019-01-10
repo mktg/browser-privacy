@@ -74,22 +74,33 @@ Firefox is a bit of a dog, but it's certainly less invasive than modern chrome b
 - [Browscap](http://tempdownloads.browserscap.com/) - browscap contains a huge database of incredibly detailed specific user agents information but it sucks with newer user agents and sucks even more for mobile detection.
 
 ## DNS Servers ##
--  **OpenDNS**
- - 208.67.222.222 , 208.67.220.220
--  **Level 3**
-	-  209.244.0.3 , 209.244.0.4 , 4.2.2.1 , 4.2.2.2 , 4.2.2.3 , 4.2.2.4
--	**[Comodo Secure DNS](https://www.comodo.com/secure-dns/)**
-	-	8.26.56.26 , 8.20.247.20
--	**[DNS Watch](https://dns.watch/index)**
-	-	82.200.69.80 , 84.200.70.40
-		resolver1.dns.watch , resolver2.dns.watch
-	- `2001:1608:10:25::1c04:b12f ` ,   `2001:1608:10:25::9249:d69b`
-	resolver1.dns.watch , resolver2.dns.watch 
+````
+OpenDNS
+	208.67.222.222 
+	208.67.220.220 
 
+Level 3
+	209.244.0.3
+	209.244.0.4 
+	4.2.2.1 
+	4.2.2.2 
+	4.2.2.3 
+	4.2.2.4
 
--  **Google** *Argurably better than your local dictatorship's honeypot, but still f*cking google.*
-	-  8.8.8.8 , 8.8.4.4
-
+Comodo Secure DNS
+	8.26.56.26 
+	8.20.247.20
+DNS Watch
+	82.200.69.80 
+	84.200.70.40 
+	resolver1.dns.watch
+	resolver2.dns.watch
+	2001:1608:10:25::1c04:b12f
+	2001:1608:10:25::9249:d69b 
+Google
+	8.8.8.8
+	8.8.4.4
+````
 
 
 ## Proxy Providers ##
