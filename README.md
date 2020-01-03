@@ -10,15 +10,15 @@ Links to web browser privacy and hardening resources, as well as browser fingerp
 
 - [Multi Login App](https://multiloginapp.com/) Multi profile anonymising browser. Awesome!
 - [SRWare Iron (Chrome)](http://www.srware.net/en/software_srware_iron.php) Chrome with the eye of sauron removed.
-- [Pale Moon (Firefox)](https://www.palemoon.org/) Custom-built and optimized Mozilla Firefox browsers for Windows Operating Systems.
-- [Midori](http://www.midori-browser.org/) Yay more open source webkit.
+- [Pale Moon (Firefox)](https://www.palemoon.org/) Custom-built and optimized  Firefox browsers for Windows.
+- [Midori](http://www.midori-browser.org/) Open source webkit.
 
 ----------
 
 ## Chrome extensions ##
-- [CanvasFingerprintBlock](https://chrome.google.com/webstore/detail/canvasfingerprintblock/ipmjngkmngdcdpmgmiebdmfbkcecdndc) - Does what it says on the tin.
-- [Scriptsafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf) - For various values of safe.
-- [Ublock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related) Less terrible than adblock plus. WebRTC blocking doesn't work.
+- [CanvasFingerprintBlock](https://chrome.google.com/webstore/detail/canvasfingerprintblock/ipmjngkmngdcdpmgmiebdmfbkcecdndc)
+- [Scriptsafe](https://chrome.google.com/webstore/detail/scriptsafe/oiigbmnaadbkfbmpbfijlflahbdbdgdf)
+- [Ublock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/related) 
 - [uMatrix](https://chrome.google.com/webstore/detail/umatrix/ogfcmafjalglgifnmanfmnieipoejdcf) Content blocking overkill.
 
 ## Chrome Config ##
@@ -29,9 +29,9 @@ Links to web browser privacy and hardening resources, as well as browser fingerp
 ## Firefox Config / Profile software ##
 Firefox is a bit of a dog, but it's certainly less invasive than modern chrome builds.
 - [Ghacks Hardened FF user.js](https://github.com/ghacksuserjs/ghacks-user.js) Well maintained privacy-focused user.js
-- [ConfigFox](http://configfox.sourceforge.net/) - A utility to manage Firefox advanced, hidden settings and tweaks, mostly concerning security and privacy.
+- [ConfigFox](http://configfox.sourceforge.net/) - Firefox config management utility.
 - [Firefox Profilemaker](https://www.ffprofile.com/) [Github](https://github.com/allo-/firefox-profilemaker) - Makes FF profiles with secure/private defaults. 
-- [Firefox Environment Backup Extension](http://softwarebychuck.com/febe/febe.html#latest)  - FEBE allows you to quickly and easily backup your Firefox extensions. Rebuilds your extensions individually into installable .xpi files. 
+- [Firefox Environment Backup Extension](http://softwarebychuck.com/febe/febe.html#latest)  - FEBE allows you to quickly and easily backup your Firefox extensions. Rebuilds  extensions individually into installable .xpi files. 
 
 
 ## Firefox Config / Tweaks ##
@@ -40,6 +40,8 @@ Firefox is a bit of a dog, but it's certainly less invasive than modern chrome b
 - [Firefox Hardening](https://github.com/pyllyukko/user.js/) - This user.js is a bit over the top to be useable day to day, but it's a good start.
 
 ## Firefox about:config tweaks ##
+
+## Disable webrtc ##
     	media.peerconnection.enabled;false // disable webrtc
     	media.peerconnection.turn.disable;true // disable webrtc
     	media.peerconnection.use_document_iceservers;false // disable webrtc
